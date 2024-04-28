@@ -1,6 +1,6 @@
 {
   "name": "com.liteninja.monoactions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "LiteNinja MonoActions",
   "description": "A collection of executable monobehaviours to help you write clean code in Unity3D",
   "unity": "2022.1",
